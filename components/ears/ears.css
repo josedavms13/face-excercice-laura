@@ -1,0 +1,18 @@
+.yellow{
+    background-color: yellow;
+}
+.brown{
+    background-color: brown;
+
+}
+.black{
+    background-color: black;
+}
+.invisible{
+    
+    visibility: hidden;
+}
+.big{
+    height: 200px;
+    width: 150px;
+}
